@@ -28,3 +28,4 @@
 
 ![Menu](screenshots/01-menu.png)
 ![Promo](screenshots/02-promo.png)
+![Menu v1 + docker ps](screenshots/00-menu.png)
